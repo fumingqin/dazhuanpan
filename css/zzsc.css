@@ -8,8 +8,8 @@ input{ font-size:12px;}
 
 /* 大转盘样式 */
 .banner{display:block;width:79%;margin-left:auto;margin-right:auto;margin-bottom: 20px;}
-.banner .turnplate{display:block;width:100%;position:relative;top: 15px;}
-.banner .turnplate canvas.item{width:100%;}
+.banner .turnplate{display:block;width:100%;position:relative;top: 25px;}
+.banner .turnplate canvas.item{width:101%;}
 .banner .turnplate img.pointer{position:absolute;width:32.5%;height:42%;left:34%;top:23.2%;}/*按钮*/
 #sbtn{ position: absolute;top: 88%;text-align: center;width: 100%; }
 #sbtn img{ width: 26%;margin: 0 30px; }
